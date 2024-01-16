@@ -1,22 +1,30 @@
 ![](https://media.licdn.com/dms/image/D5616AQGKBW9NVE4TSQ/profile-displaybackgroundimage-shrink_350_1400/0/1705309156070?e=1710979200&v=beta&t=XqmQLgWjL3EP1P_gDqnfM5b3UkXg0rgc1UmXOFrrwH0)
 
-# Hi My Name Is Md Sabuj Mia.
-## I Am A Jr. Webloper.
+Hi there, I'm Sabuj Mia 
+I'm a passionate Frontend Developer based in [Your Location]. My journey in the tech world revolves around crafting elegant and user-friendly web experiences. Here's a glimpse of my skills:
 
-#### Junior Software Engineer  Full Stack Enthusiast  JavaScript  Typescript  Next JS  React JS  Redux || MERN Stack
-My name is Md. Rony and I am agile, self-motivated, honest, and hard-working person.
-I have extensive experience in front-end development and API integration.
-I have built fully functional user interfaces with React JS and Next JS, and I have integrated REST APIs from different servers.
+ HTML & CSS: Building the foundation for visually appealing and responsive websites.
+ JavaScript: Bringing interactivity and dynamic features to web applications.
+ React JS: Creating scalable and efficient single-page applications with modular components.
 
-My skill set includes JavaScript, HTML, CSS, Next JS, React JS, Redux, Redux toolkit, Bootstrap, and Tailwind CSS.
+ Get in Touch
+ Email: mdsobujredoy@gmail.com
+ Phone: +88 01731620933
 
-I am also familiar with Python, TypeScript, Node JS, Express JS, Firebase, and JWT.
+ Portfolio
+Check out my [portfolio website](#) for a showcase of my recent projects and a more in-depth look at my work.
 
-In terms of databases, I have experience with MySQL, SQL, MongoDB, and Mongoose.
+ Technologies & Tools
+HTML5, CSS3, JavaScript (ES6+)
+React JS, Redux
+[Add any other relevant technologies/tools]
 
-For hosting, I am familiar with Heroku, Vercel, and Netlify.
+ GitHub Stats
+[![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide=contribs)](https://github.com/your-username)
 
-My passion is Full Stack Development, and I am always trying to update my skills with the latest technology. I can work efficiently within short timeframes without losing patience until the job is successfully completed.
+ Let's Connect
+Connect with me on LinkedIn for professional discussions and opportunities.
 
-Top skills
-React.js • Next.js • JavaScript • MERN Stack
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if there's a project you'd like to collaborate on!
+
+Happy coding! 
