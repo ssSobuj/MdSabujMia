@@ -35,3 +35,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if there's a project you'd like to collaborate on!
 
 Happy coding! 🚀
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssSobuj)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ssSobuj)
