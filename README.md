@@ -44,3 +44,5 @@ Happy coding! 🚀
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssSobuj&show_icons=true&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=ssSobuj&color=green)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ssSobuj&theme=onedark)
