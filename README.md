@@ -37,7 +37,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 Happy coding! 🚀
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssSobuj)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssSobuj)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ssSobuj)
 
