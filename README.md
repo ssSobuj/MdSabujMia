@@ -20,7 +20,7 @@ Check out my [portfolio website](#) for a showcase of my recent projects and a m
 ## 🛠️ Technologies & Tools
 
 - HTML5, CSS3, JavaScript (ES6+)
-- tailwind, bootstrap
+- Tailwind, Bootstrap
 - React JS, Redux
 - [Add any other relevant technologies/tools]
 
