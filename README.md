@@ -41,4 +41,6 @@ Happy coding! 🚀
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ssSobuj)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssSobuj&show_icons=true&count_private=true)
+
 ![](https://komarev.com/ghpvc/?username=ssSobuj&color=green)
