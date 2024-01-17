@@ -29,7 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="sobujmia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sssobuj&&theme=tokyonight" alt="sssobuj" /></p>
 
 
 
